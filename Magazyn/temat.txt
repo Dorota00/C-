@@ -1,0 +1,12 @@
+Temat projektu: Rejestr magazynu
+
+Za pomocą kilku klas utworzyłam projekt, który pozwala na przechowywanie i zmianę informacji o stanie magazynu. 
+Budynek- przechowuje wskaźniki do Magazynów
+Magazyn-przechowuje wskaźniki do Produktów
+Produkt- klasa abstrakcyjna, po której dziedziczą trzy klasy: Towar, Towar_sypki, Towar_ciekly, które posiadają składowe: ID, nazwa i ilość.
+Klasa Towar dodatkowo posiada składową weight przy pomocy której przeliczana jest potem waga na paleciaku. Waga jest sprawdzana ze składową klasy paleciak- udzwig.
+
+Użytkownik tworzy magazyny i towary oraz zmienia ich ilość przy pomocy odpowiednich komend.
+W plikach "chooseType" następuje wybieranie odpowiedniego typu produktu.
+Projekt zawiera funkcje wyświetlające stworzone magazyny oraz ich stan.
+Utworzyłam trzy pomocnicze funkcje do wczytywania liczb i tekstu i umieściłam je w plikach "helper" dla lepszej czytelności.

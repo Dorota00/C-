@@ -1,0 +1,156 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.cpp
+Budynek.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.h
+iostream
+-
+istream
+-
+vector
+-
+string
+-
+Magazyn.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.cpp
+Magazyn.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.h
+istream
+-
+iostream
+-
+vector
+-
+string
+-
+Paleciak.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.h
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+chooseType.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.cpp
+Paleciak.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.h
+iostream
+-
+vector
+-
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.cpp
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+iostream
+-
+istream
+-
+string
+-
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.cpp
+Towar.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.h
+iostream
+-
+istream
+-
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.cpp
+Towar_ciekly.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.h
+iostream
+-
+istream
+-
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.cpp
+Towar_sypki.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.h
+iostream
+-
+istream
+-
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.cpp
+chooseType.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.h
+iostream
+-
+istream
+-
+string
+-
+Produkt.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h
+Towar.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.h
+Towar_sypki.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.h
+Towar_ciekly.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.h
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.cpp
+helper.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h
+iostream
+-
+istream
+-
+string
+-
+
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/main.cpp
+fstream
+-
+iostream
+-
+string
+-
+Budynek.h
+D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.h
+

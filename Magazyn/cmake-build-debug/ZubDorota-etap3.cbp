@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ZubDorota-etap3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ZubDorota-etap3">
+				<Option output="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/ZubDorota-etap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ZubDorota-etap3"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ZubDorota-etap3/fast">
+				<Option output="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/ZubDorota-etap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ZubDorota-etap3/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Budynek.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Magazyn.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Paleciak.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Produkt.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_ciekly.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/Towar_sypki.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/chooseType.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/helper.h">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/main.cpp">
+			<Option target="ZubDorota-etap3"/>
+		</Unit>
+		<Unit filename="D:/edukacja/Studia-3 semestr/Programowanie obiektowe/CLion/ZubDorota-etap3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
